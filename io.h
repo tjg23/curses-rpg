@@ -1,6 +1,7 @@
 #ifndef IO_H
 # define IO_H
 
+#include <cstdint>
 class character;
 typedef int16_t pair_t[2];
 // class pair_t;

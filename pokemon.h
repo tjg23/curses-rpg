@@ -1,7 +1,7 @@
 #ifndef POKEMON_H
 # define POKEMON_H
 
-class move_db;
+struct move_db;
 
 enum pokemon_stat {
   stat_hp,
